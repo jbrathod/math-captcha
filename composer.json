@@ -1,0 +1,18 @@
+{
+    "name": "jbrathod/math-captcha",
+    "description": "A captcha that uses multiple time in one website",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jbrathod\\MathCaptcha\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jigneshsinh",
+            "email": "jigneshsinh21@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
